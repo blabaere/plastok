@@ -1,0 +1,6 @@
+[package]
+name = "plastok"
+version = "0.1.0"
+authors = ["Benoît Labaere <benoit.labaere@gmail.com>"]
+
+[dependencies]
